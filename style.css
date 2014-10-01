@@ -1,0 +1,30 @@
+@import url(http://fonts.googleapis.com/css?family=Lato);
+
+body {
+	text-align: left;
+	background: url('./img/bakuman.png') no-repeat center center fixed;
+	background-size: cover;
+	font-family: 'Lato', sans-serif;
+}
+
+div {
+	display: inline-block;
+}
+
+.container {
+	background-color: rgba(175,175,175,0.1);
+	width: 250px;
+}
+
+h1 {
+	font-size: 36px;
+   	color: black;
+   	/*-webkit-text-fill-color: white; /* Will override color (regardless of order)
+	-webkit-text-stroke-width: 1px;
+   	-webkit-text-stroke-color: black;*/
+}
+
+.menu {
+	opacity: 0.75;
+}
+
